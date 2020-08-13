@@ -1,0 +1,10 @@
+C:\Users\bvmacwin\Desktop\projelerim\SeriPortProgrami\SeriPortProgrami\obj\Debug\SeriPortProgrami.csprojAssemblyReference.cache
+C:\Users\bvmacwin\Desktop\projelerim\SeriPortProgrami\SeriPortProgrami\obj\Debug\SeriPortProgrami.Form1.resources
+C:\Users\bvmacwin\Desktop\projelerim\SeriPortProgrami\SeriPortProgrami\obj\Debug\SeriPortProgrami.Properties.Resources.resources
+C:\Users\bvmacwin\Desktop\projelerim\SeriPortProgrami\SeriPortProgrami\obj\Debug\SeriPortProgrami.csproj.GenerateResource.cache
+C:\Users\bvmacwin\Desktop\projelerim\SeriPortProgrami\SeriPortProgrami\obj\Debug\SeriPortProgrami.csproj.CoreCompileInputs.cache
+C:\Users\bvmacwin\Desktop\projelerim\SeriPortProgrami\SeriPortProgrami\bin\Debug\SeriPortProgrami.exe.config
+C:\Users\bvmacwin\Desktop\projelerim\SeriPortProgrami\SeriPortProgrami\bin\Debug\SeriPortProgrami.exe
+C:\Users\bvmacwin\Desktop\projelerim\SeriPortProgrami\SeriPortProgrami\bin\Debug\SeriPortProgrami.pdb
+C:\Users\bvmacwin\Desktop\projelerim\SeriPortProgrami\SeriPortProgrami\obj\Debug\SeriPortProgrami.exe
+C:\Users\bvmacwin\Desktop\projelerim\SeriPortProgrami\SeriPortProgrami\obj\Debug\SeriPortProgrami.pdb
